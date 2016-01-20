@@ -1,3 +1,9 @@
+/*
+ * Copyright (C) 2016 Tamas K Lengyel
+ * ACADEMIC PUBLIC LICENSE
+ * For details please read the LICENSE file.
+ */
+
 #ifndef SYSCALLS_H
 #define SYSCALLS_H
 
